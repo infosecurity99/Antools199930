@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+a{
+  text-decoration: none;
+  color: none;
+
+}
+.carousel-track{
+  height: 500px !important;
+  width: 960px !important;
+}
+.grow{
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  justify-content:space-evenly !important;
+}
+.imgs{
+  width: 399px;
+height: 492px;
+}
+.word{
+width: 393px !important;
+height: 492px !important;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+letter-spacing: 0.015em;
+color: rgba(255, 255, 255, 0.78);
+
+}
+
